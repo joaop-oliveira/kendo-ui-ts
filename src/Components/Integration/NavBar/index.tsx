@@ -1,23 +1,20 @@
-import * as React from 'react';
-import { Menu, MenuItem } from '@progress/kendo-react-layout';
-import { Button } from '@progre'
+import * as React from "react";
+import { PanelBar, PanelBarItem } from "@progress/kendo-react-layout";
+import { Button } from "@progress/kendo-react-buttons";
 
+type NavBarProps = {};
 
-type NavBarProps = {
-
-}
-
-class NavBar extends React.Component<NavBarProps, object>{
-    render(): React.ReactNode {
-        return (
-            <Menu style={{ display: 'inline-block' }}>
-                <MenuItem text="Components">
-                    <MenuItem text="Buttons" />
-                    <MenuItem text="Fields"/>
-                </MenuItem>
-            </Menu>
-        );
-    }
+class NavBar extends React.Component<NavBarProps, object> {
+  render(): React.ReactNode {
+    return (
+      <PanelBar>
+        <PanelBarItem title="Components">
+          <PanelBarItem title="Buttons" />
+          <PanelBarItem title="Fields" />
+        </PanelBarItem>
+      </PanelBar>
+    );
+  }
 }
 
 export default NavBar;

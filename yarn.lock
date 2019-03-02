@@ -989,6 +989,15 @@
     prop-types "^15.6.0"
     react-transition-group "^2.2.0"
 
+"@progress/kendo-react-buttons@^2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@progress/kendo-react-buttons/-/kendo-react-buttons-2.7.1.tgz#9cdde254cdeefa4b6916bb6a71fdc29bb8d922c1"
+  integrity sha512-6HZZzELgRCg/TtLOG8wisj3WLzV5s61t6fHTdkV7a9Dv2ecte/zF6QHxj+air0CWneUDpSysGM3BWMAOFC2SaA==
+  dependencies:
+    "@progress/kendo-react-common" "2.7.1"
+    "@progress/kendo-react-popup" "2.7.1"
+    prop-types "^15.6.0"
+
 "@progress/kendo-react-common@2.7.1":
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/@progress/kendo-react-common/-/kendo-react-common-2.7.1.tgz#7f54494e22983acb46a00a5ac488c68fd5c51410"
@@ -2158,6 +2167,11 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
+
+bootstrap@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.3.1.tgz#280ca8f610504d99d7b6b4bfc4b68cec601704ac"
+  integrity sha512-rXqOmH1VilAt2DyPzluTi2blhk17bO7ef+zLLPlWvG494pDxcM234pJ8wTc/6R40UWizAIIMgxjvxZg5kmsbag==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
