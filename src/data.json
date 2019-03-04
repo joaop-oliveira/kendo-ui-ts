@@ -1,0 +1,2493 @@
+[
+  {
+    "slug": "tnc",
+    "players": [
+      {
+        "slug": "pro",
+        "role": null,
+        "name": "Pro.",
+        "last_name": "Chris Martir",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20606/400.jpeg",
+        "id": 20606,
+        "hometown": "Philippines",
+        "first_name": null
+      },
+      {
+        "slug": "witz",
+        "role": null,
+        "name": "witz",
+        "last_name": "Riley Go",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20607/400.jpeg",
+        "id": 20607,
+        "hometown": "Philippines",
+        "first_name": null
+      },
+      {
+        "slug": "papichulo",
+        "role": null,
+        "name": "Papichulo",
+        "last_name": "Deko Evangelista",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20608/400.jpeg",
+        "id": 20608,
+        "hometown": "Philippines",
+        "first_name": null
+      },
+      {
+        "slug": "kenzyy",
+        "role": null,
+        "name": "kenzyy",
+        "last_name": "Kenny Cruz",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20609/400.jpeg",
+        "id": 20609,
+        "hometown": "Philippines",
+        "first_name": null
+      },
+      {
+        "slug": "borkum",
+        "role": null,
+        "name": "BORKUM",
+        "last_name": "Jim Timbreza",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20610/400.jpeg",
+        "id": 20610,
+        "hometown": "Philippines",
+        "first_name": null
+      }
+    ],
+    "name": "TNC",
+    "image_url": null,
+    "id": 125791,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "team1",
+    "players": [
+      {
+        "slug": "darks1de",
+        "role": null,
+        "name": "DarkS1DE",
+        "last_name": "Artur Kravchenko",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20604/400.jpeg",
+        "id": 20604,
+        "hometown": "Ukraine",
+        "first_name": null
+      },
+      {
+        "slug": "arch-efb71e97-5824-4b3f-a767-36adc0b50314",
+        "role": null,
+        "name": "arch",
+        "last_name": "Vladyslav Svistov",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20605/400.jpeg",
+        "id": 20605,
+        "hometown": "Ukraine",
+        "first_name": null
+      }
+    ],
+    "name": "Team1",
+    "image_url": null,
+    "id": 125790,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "btrg-hk",
+    "players": [
+      {
+        "slug": "darkkis",
+        "role": null,
+        "name": "Darkkis",
+        "last_name": "ChiNam Li",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20600/400.jpeg",
+        "id": 20600,
+        "hometown": "Hong Kong",
+        "first_name": null
+      },
+      {
+        "slug": "krbl",
+        "role": null,
+        "name": "krbl",
+        "last_name": "HoWang Wong",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20601/400.jpeg",
+        "id": 20601,
+        "hometown": "Hong Kong",
+        "first_name": null
+      },
+      {
+        "slug": "heib",
+        "role": null,
+        "name": "HeiB",
+        "last_name": "Shun-Hei Ho",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20602/blankplayer.svg",
+        "id": 20602,
+        "hometown": "Hong Kong",
+        "first_name": null
+      },
+      {
+        "slug": "jeffvanb",
+        "role": null,
+        "name": "JeffVanB",
+        "last_name": "YiuOn Wong",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20603/blankplayer.svg",
+        "id": 20603,
+        "hometown": "Hong Kong",
+        "first_name": null
+      }
+    ],
+    "name": "BTRG.HK",
+    "image_url": null,
+    "id": 125789,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "wardell-n-friends",
+    "players": [],
+    "name": "WARDELL N Friends",
+    "image_url": null,
+    "id": 125788,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "russia-cs-go",
+    "players": [],
+    "name": "Russia",
+    "image_url": null,
+    "id": 125787,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "panda",
+    "players": [
+      {
+        "slug": "ayaya",
+        "role": null,
+        "name": "ayaya",
+        "last_name": "YangYang Zheng",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20598/400.jpeg",
+        "id": 20598,
+        "hometown": "China",
+        "first_name": null
+      }
+    ],
+    "name": "Panda",
+    "image_url": null,
+    "id": 125786,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "movistar-riders-cs-go",
+    "players": [
+      {
+        "slug": "mopoz",
+        "role": null,
+        "name": "mopoz",
+        "last_name": "Alejandro Fernández-Quejo Cano",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20595/400.jpeg",
+        "id": 20595,
+        "hometown": "Spain",
+        "first_name": null
+      },
+      {
+        "slug": "alex-315d6783-83fa-4901-9193-dcfcc14c84bd",
+        "role": null,
+        "name": "ALEX",
+        "last_name": "Alejandro Masanet",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20596/400.jpeg",
+        "id": 20596,
+        "hometown": "Spain",
+        "first_name": null
+      },
+      {
+        "slug": "soker",
+        "role": null,
+        "name": "SOKER",
+        "last_name": "Aitor Fernández",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20597/400.jpeg",
+        "id": 20597,
+        "hometown": "Spain",
+        "first_name": null
+      }
+    ],
+    "name": "Movistar Riders",
+    "image_url": null,
+    "id": 125785,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "altima",
+    "players": [
+      {
+        "slug": "secretagent",
+        "role": null,
+        "name": "SecretAgent",
+        "last_name": "Jose Fernandez",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20590/400.jpeg",
+        "id": 20590,
+        "hometown": "Mexico",
+        "first_name": null
+      },
+      {
+        "slug": "gonnak",
+        "role": null,
+        "name": "Gonnak",
+        "last_name": "Adrian Arguello",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20591/blankplayer.svg",
+        "id": 20591,
+        "hometown": "Mexico",
+        "first_name": null
+      },
+      {
+        "slug": "spayder",
+        "role": null,
+        "name": "spaydeR",
+        "last_name": "David Esquerra",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20592/400.jpeg",
+        "id": 20592,
+        "hometown": "Mexico",
+        "first_name": null
+      },
+      {
+        "slug": "chuti",
+        "role": null,
+        "name": "Chuti",
+        "last_name": "Fernando Luis Planchart",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20593/400.jpeg",
+        "id": 20593,
+        "hometown": "Mexico",
+        "first_name": null
+      },
+      {
+        "slug": "k1nky",
+        "role": null,
+        "name": "k1Nky",
+        "last_name": "Francisco Alvarez",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20594/400.jpeg",
+        "id": 20594,
+        "hometown": "Mexico",
+        "first_name": null
+      }
+    ],
+    "name": "Altima",
+    "image_url": null,
+    "id": 125784,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "viva-algeria",
+    "players": [
+      {
+        "slug": "natsu",
+        "role": null,
+        "name": "natsu",
+        "last_name": "Nabil Badi",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20585/blankplayer.svg",
+        "id": 20585,
+        "hometown": "Algeria",
+        "first_name": null
+      },
+      {
+        "slug": "noxii",
+        "role": null,
+        "name": "nOxii",
+        "last_name": "Dylan Saadi",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20586/blankplayer.svg",
+        "id": 20586,
+        "hometown": "Algeria",
+        "first_name": null
+      },
+      {
+        "slug": "malikof",
+        "role": null,
+        "name": "Malikof",
+        "last_name": "Malik Kofkof",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20587/blankplayer.svg",
+        "id": 20587,
+        "hometown": "Algeria",
+        "first_name": null
+      },
+      {
+        "slug": "ninis",
+        "role": null,
+        "name": "Ninis",
+        "last_name": "Anis Ounassar",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20588/blankplayer.svg",
+        "id": 20588,
+        "hometown": "Algeria",
+        "first_name": null
+      },
+      {
+        "slug": "sabaaa",
+        "role": null,
+        "name": "sabAAA",
+        "last_name": "Aboudi Sabri",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20589/blankplayer.svg",
+        "id": 20589,
+        "hometown": "Algeria",
+        "first_name": null
+      }
+    ],
+    "name": "Viva Algeria",
+    "image_url": null,
+    "id": 125783,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "k23",
+    "players": [
+      {
+        "slug": "flame-f8cb6666-19b5-48dc-b411-e39452e39cee",
+        "role": null,
+        "name": "flAme",
+        "last_name": "Omar Seidov",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20584/400.jpeg",
+        "id": 20584,
+        "hometown": "Kazakhstan",
+        "first_name": null
+      }
+    ],
+    "name": "K23",
+    "image_url": null,
+    "id": 125782,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "absolute-cs-go",
+    "players": [
+      {
+        "slug": "crow-cbcff96d-5366-4349-bf2b-232ebf0bd117",
+        "role": null,
+        "name": "crow",
+        "last_name": "Tomoaki Maruoka",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20579/400.jpeg",
+        "id": 20579,
+        "hometown": "Japan",
+        "first_name": null
+      },
+      {
+        "slug": "laz",
+        "role": null,
+        "name": "Laz",
+        "last_name": "Koji Ushida",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20580/400.jpeg",
+        "id": 20580,
+        "hometown": "Japan",
+        "first_name": null
+      },
+      {
+        "slug": "barce",
+        "role": null,
+        "name": "barce",
+        "last_name": "Ryo Takebayashi",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20581/400.jpeg",
+        "id": 20581,
+        "hometown": "Japan",
+        "first_name": null
+      },
+      {
+        "slug": "takej",
+        "role": null,
+        "name": "takej",
+        "last_name": "Takemori Shogo",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20582/400.jpeg",
+        "id": 20582,
+        "hometown": "Japan",
+        "first_name": null
+      },
+      {
+        "slug": "reita",
+        "role": null,
+        "name": "Reita",
+        "last_name": "Ryu Oshiro",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20583/400.jpeg",
+        "id": 20583,
+        "hometown": "Japan",
+        "first_name": null
+      }
+    ],
+    "name": "Absolute",
+    "image_url": null,
+    "id": 125781,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "frostfire",
+    "players": [
+      {
+        "slug": "acap",
+        "role": null,
+        "name": "acAp",
+        "last_name": "Ashraf Firdaus",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20574/400.jpeg",
+        "id": 20574,
+        "hometown": "Malaysia",
+        "first_name": null
+      },
+      {
+        "slug": "aimannn",
+        "role": null,
+        "name": "aimaNNN",
+        "last_name": "Aiman Azham",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20575/400.jpeg",
+        "id": 20575,
+        "hometown": "Malaysia",
+        "first_name": null
+      },
+      {
+        "slug": "d4v41",
+        "role": null,
+        "name": "d4v41",
+        "last_name": "Ahmad Khalish Rusyaidee Bin Nordin",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20576/400.jpeg",
+        "id": 20576,
+        "hometown": "Malaysia",
+        "first_name": null
+      },
+      {
+        "slug": "subbey",
+        "role": null,
+        "name": "Subbey",
+        "last_name": "Shamir Zaman",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20577/400.jpeg",
+        "id": 20577,
+        "hometown": "Malaysia",
+        "first_name": null
+      },
+      {
+        "slug": "valor",
+        "role": null,
+        "name": "Valor",
+        "last_name": "Vei Ler Sia",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20578/blankplayer.svg",
+        "id": 20578,
+        "hometown": "Malaysia",
+        "first_name": null
+      }
+    ],
+    "name": "FrostFire",
+    "image_url": null,
+    "id": 125780,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "furious",
+    "players": [
+      {
+        "slug": "luken",
+        "role": null,
+        "name": "Luken",
+        "last_name": "Luca Nadotti",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20569/400.jpeg",
+        "id": 20569,
+        "hometown": "Argentina",
+        "first_name": null
+      },
+      {
+        "slug": "nhl",
+        "role": null,
+        "name": "nhl",
+        "last_name": "Nahuel Herrera",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20570/400.jpeg",
+        "id": 20570,
+        "hometown": "Argentina",
+        "first_name": null
+      },
+      {
+        "slug": "restikk",
+        "role": null,
+        "name": "restikk",
+        "last_name": "Genaro Hokama",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20571/400.jpeg",
+        "id": 20571,
+        "hometown": "Argentina",
+        "first_name": null
+      },
+      {
+        "slug": "guishorro",
+        "role": null,
+        "name": "guishorro",
+        "last_name": "Guillermo Areco",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20572/400.jpeg",
+        "id": 20572,
+        "hometown": "Argentina",
+        "first_name": null
+      },
+      {
+        "slug": "nbl",
+        "role": null,
+        "name": "nbl",
+        "last_name": "Nabil Aleua",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20573/400.jpeg",
+        "id": 20573,
+        "hometown": "Argentina",
+        "first_name": null
+      }
+    ],
+    "name": "Furious",
+    "image_url": null,
+    "id": 125779,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "denial-cs-go",
+    "players": [
+      {
+        "slug": "blackpoison-a901d5e2-098e-4bf3-9996-59d42da2a4e6",
+        "role": null,
+        "name": "blackpoisoN",
+        "last_name": "Robby Da Loca",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20568/400.jpeg",
+        "id": 20568,
+        "hometown": "South Africa",
+        "first_name": null
+      }
+    ],
+    "name": "Denial",
+    "image_url": null,
+    "id": 125778,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "singularity-cs-go",
+    "players": [
+      {
+        "slug": "osee-f4905a1c-439c-4c70-afd0-d5285bf08862",
+        "role": null,
+        "name": "oSee",
+        "last_name": "Josh Ohm",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20561/400.jpeg",
+        "id": 20561,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "hydrex-400fe252-b9d5-4542-83c9-44cc559daf4b",
+        "role": null,
+        "name": "hydrex",
+        "last_name": "Cameron Kern",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20562/400.jpeg",
+        "id": 20562,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "ryann-60b99d06-fc6f-4892-9335-0cea56039c0c",
+        "role": null,
+        "name": "ryann",
+        "last_name": "Ryan Welsh",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20563/400.jpeg",
+        "id": 20563,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "motm-82199bf9-2142-47ca-8d08-62c3c45d5857",
+        "role": null,
+        "name": "motm",
+        "last_name": "Ian Hardy",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20564/400.jpeg",
+        "id": 20564,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "floppy-48e4b08d-c153-4606-84b5-34ebaa90d69c",
+        "role": null,
+        "name": "floppy",
+        "last_name": "Ricky Kemery",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20565/400.jpeg",
+        "id": 20565,
+        "hometown": "United States",
+        "first_name": null
+      }
+    ],
+    "name": "Singularity",
+    "image_url": null,
+    "id": 125777,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "revolution",
+    "players": [
+      {
+        "slug": "hoag",
+        "role": null,
+        "name": "hoag",
+        "last_name": "Hiep Do",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20556/400.jpeg",
+        "id": 20556,
+        "hometown": "Vietnam",
+        "first_name": null
+      },
+      {
+        "slug": "jaybk",
+        "role": null,
+        "name": "Jaybk",
+        "last_name": "Tuan-Anh Truong",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20557/400.jpeg",
+        "id": 20557,
+        "hometown": "Vietnam",
+        "first_name": null
+      },
+      {
+        "slug": "differ3nt",
+        "role": null,
+        "name": "Differ3nt",
+        "last_name": "Vũ Toàn",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20558/blankplayer.svg",
+        "id": 20558,
+        "hometown": "Vietnam",
+        "first_name": null
+      },
+      {
+        "slug": "fog",
+        "role": null,
+        "name": "Fog",
+        "last_name": "Dung Pham",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20559/400.jpeg",
+        "id": 20559,
+        "hometown": "Vietnam",
+        "first_name": null
+      },
+      {
+        "slug": "tee",
+        "role": null,
+        "name": "Tee",
+        "last_name": "Trieu Pham",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20560/400.jpeg",
+        "id": 20560,
+        "hometown": "Vietnam",
+        "first_name": null
+      }
+    ],
+    "name": "Revolution",
+    "image_url": null,
+    "id": 125776,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "copenhagen-flames",
+    "players": [
+      {
+        "slug": "sycrone",
+        "role": null,
+        "name": "sycrone",
+        "last_name": "Dennis Nielsen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20512/400.jpeg",
+        "id": 20512,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "hooxi",
+        "role": null,
+        "name": "HooXi",
+        "last_name": "Rasmus Nielsen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20513/400.jpeg",
+        "id": 20513,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "basso",
+        "role": null,
+        "name": "Basso",
+        "last_name": "Sebastian Aagaard",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20514/400.jpeg",
+        "id": 20514,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "farlig",
+        "role": null,
+        "name": "Farlig",
+        "last_name": "Asger Jensen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20515/400.jpeg",
+        "id": 20515,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "roej",
+        "role": null,
+        "name": "roeJ",
+        "last_name": "Fredrik Jørgensen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20516/400.jpeg",
+        "id": 20516,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "console",
+        "role": null,
+        "name": "Console",
+        "last_name": null,
+        "image_url": null,
+        "id": 20543,
+        "hometown": null,
+        "first_name": null
+      },
+      {
+        "slug": "console",
+        "role": null,
+        "name": "Console",
+        "last_name": null,
+        "image_url": null,
+        "id": 20544,
+        "hometown": null,
+        "first_name": null
+      }
+    ],
+    "name": "Copenhagen Flames",
+    "image_url": null,
+    "id": 125775,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "havu",
+    "players": [
+      {
+        "slug": "slowi",
+        "role": null,
+        "name": "sLowi",
+        "last_name": "Olli Pitkänen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20507/400.jpeg",
+        "id": 20507,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "zoree",
+        "role": null,
+        "name": "ZOREE",
+        "last_name": "Lasse Uronen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20508/400.jpeg",
+        "id": 20508,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "twixie",
+        "role": null,
+        "name": "Twixie",
+        "last_name": "Samuli Herrala",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20509/blankplayer.svg",
+        "id": 20509,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "peku",
+        "role": null,
+        "name": "peku",
+        "last_name": "Petteri Jaakkola",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20510/400.jpeg",
+        "id": 20510,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "hoody",
+        "role": null,
+        "name": "Hoody",
+        "last_name": "Aaro Peltokangas",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20511/400.jpeg",
+        "id": 20511,
+        "hometown": "Finland",
+        "first_name": null
+      }
+    ],
+    "name": "HAVU",
+    "image_url": null,
+    "id": 125774,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "codewise-unicorns",
+    "players": [
+      {
+        "slug": "azizz",
+        "role": null,
+        "name": "azizz",
+        "last_name": "Łukasz Kałkowski",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20502/400.jpeg",
+        "id": 20502,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "crityourface",
+        "role": null,
+        "name": "Crityourface",
+        "last_name": "Szymon Pluta",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20503/400.jpeg",
+        "id": 20503,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "falon",
+        "role": null,
+        "name": "Falon",
+        "last_name": "Damian Tworek",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20504/400.jpeg",
+        "id": 20504,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "leman",
+        "role": null,
+        "name": "leman",
+        "last_name": "Eryk Kocęba",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20505/400.jpeg",
+        "id": 20505,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "luz",
+        "role": null,
+        "name": "Luz",
+        "last_name": "Maciek Bugaj",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20506/400.jpeg",
+        "id": 20506,
+        "hometown": "Poland",
+        "first_name": null
+      }
+    ],
+    "name": "Codewise Unicorns",
+    "image_url": null,
+    "id": 125773,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "izako-boars",
+    "players": [
+      {
+        "slug": "matty",
+        "role": null,
+        "name": "matty",
+        "last_name": "Mateusz Kołodziejczyk",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20497/400.jpeg",
+        "id": 20497,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "tecek",
+        "role": null,
+        "name": "tecek",
+        "last_name": "Karol Kapczyński",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20498/400.jpeg",
+        "id": 20498,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "nawrot",
+        "role": null,
+        "name": "nawrot",
+        "last_name": "Piotr Nawrocki",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20499/400.jpeg",
+        "id": 20499,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "patitek",
+        "role": null,
+        "name": "Patitek",
+        "last_name": "Patryk Fabrowski",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20500/400.jpeg",
+        "id": 20500,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "neex",
+        "role": null,
+        "name": "NEEX",
+        "last_name": "Sebastian Trela",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20501/400.jpeg",
+        "id": 20501,
+        "hometown": "Poland",
+        "first_name": null
+      }
+    ],
+    "name": "Izako Boars",
+    "image_url": null,
+    "id": 125772,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "defusekids",
+    "players": [
+      {
+        "slug": "v1n",
+        "role": null,
+        "name": "v1N",
+        "last_name": "Vincent Brouwer",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20492/400.jpeg",
+        "id": 20492,
+        "hometown": "Netherlands",
+        "first_name": null
+      },
+      {
+        "slug": "g1do",
+        "role": null,
+        "name": "G1DO",
+        "last_name": "Gido Brouwer",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20493/400.jpeg",
+        "id": 20493,
+        "hometown": "Netherlands",
+        "first_name": null
+      },
+      {
+        "slug": "fashr",
+        "role": null,
+        "name": "FASHR",
+        "last_name": "Dion Derksen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20494/400.jpeg",
+        "id": 20494,
+        "hometown": "Netherlands",
+        "first_name": null
+      },
+      {
+        "slug": "bernard",
+        "role": null,
+        "name": "Bernard",
+        "last_name": "Bernardus Stornebrink",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20495/blankplayer.svg",
+        "id": 20495,
+        "hometown": "Netherlands",
+        "first_name": null
+      },
+      {
+        "slug": "claeys",
+        "role": null,
+        "name": "claeys",
+        "last_name": "Yordi Claeys",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20496/blankplayer.svg",
+        "id": 20496,
+        "hometown": "Belgium",
+        "first_name": null
+      }
+    ],
+    "name": "Defusekids",
+    "image_url": null,
+    "id": 125771,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "pact",
+    "players": [
+      {
+        "slug": "lunatic",
+        "role": null,
+        "name": "lunAtic",
+        "last_name": "Dawid Cieślak",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20487/400.jpeg",
+        "id": 20487,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "darko",
+        "role": null,
+        "name": "darko",
+        "last_name": "Kacper Ściera",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20488/400.jpeg",
+        "id": 20488,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "vegi",
+        "role": null,
+        "name": "Vegi",
+        "last_name": "Arek Nawojski",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20489/400.jpeg",
+        "id": 20489,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "sidney",
+        "role": null,
+        "name": "Sidney",
+        "last_name": "Patryk Korab",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20490/400.jpeg",
+        "id": 20490,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "sobol",
+        "role": null,
+        "name": "Sobol",
+        "last_name": "Kamil Sobolewski",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20491/400.jpeg",
+        "id": 20491,
+        "hometown": "Poland",
+        "first_name": null
+      }
+    ],
+    "name": "PACT",
+    "image_url": null,
+    "id": 125770,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "goldengitte",
+    "players": [
+      {
+        "slug": "nodios",
+        "role": null,
+        "name": "Nodios",
+        "last_name": "Magnus Olsen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20482/400.jpeg",
+        "id": 20482,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "sjuush",
+        "role": null,
+        "name": "sjuush",
+        "last_name": "Rasmus Beck",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20483/400.jpeg",
+        "id": 20483,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "larsen-49ec3202-2922-4b38-80ed-7a4615050339",
+        "role": null,
+        "name": "larsen",
+        "last_name": "Sebastian Larsen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20484/400.jpeg",
+        "id": 20484,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "haste",
+        "role": null,
+        "name": "haste",
+        "last_name": "Thomas Dyrensborg",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20485/400.jpeg",
+        "id": 20485,
+        "hometown": "Denmark",
+        "first_name": null
+      },
+      {
+        "slug": "teses",
+        "role": null,
+        "name": "TeSeS",
+        "last_name": "Rene Madsen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20486/400.jpeg",
+        "id": 20486,
+        "hometown": "Denmark",
+        "first_name": null
+      }
+    ],
+    "name": "GoldenGitte",
+    "image_url": null,
+    "id": 125769,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "sj",
+    "players": [
+      {
+        "slug": "arvid-cb2057b4-e5d5-4aa6-9aab-5fd70b414272",
+        "role": null,
+        "name": "arvid",
+        "last_name": "Tony Niemelä",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20479/400.jpeg",
+        "id": 20479,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "saddyx-597e7907-9a29-4863-ba2b-cd73a7990261",
+        "role": null,
+        "name": "SADDYX",
+        "last_name": "Tuomas Louhimaa",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20480/400.jpeg",
+        "id": 20480,
+        "hometown": "Finland",
+        "first_name": null
+      },
+      {
+        "slug": "jamppi-54e58bb2-ead5-432f-a397-bb66b430e341",
+        "role": null,
+        "name": "Jamppi",
+        "last_name": "Elias Olkkonen",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20481/400.jpeg",
+        "id": 20481,
+        "hometown": "Finland",
+        "first_name": null
+      }
+    ],
+    "name": "SJ",
+    "image_url": null,
+    "id": 125768,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "rog-titans",
+    "players": [],
+    "name": "ROG TiTans",
+    "image_url": null,
+    "id": 125767,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "ROG TiTans"
+  },
+  {
+    "slug": "lxg-esports",
+    "players": [],
+    "name": "LXG Esports",
+    "image_url": null,
+    "id": 125766,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "LXG"
+  },
+  {
+    "slug": "reckoning-esports",
+    "players": [],
+    "name": "Coming Soon",
+    "image_url": null,
+    "id": 125765,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "Soon"
+  },
+  {
+    "slug": "genuine-gaming",
+    "players": [],
+    "name": "Genuine Gaming",
+    "image_url": null,
+    "id": 125764,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "Genuine Gaming"
+  },
+  {
+    "slug": "team-jekish",
+    "players": [],
+    "name": "Team Jekish",
+    "image_url": null,
+    "id": 125763,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "Team Jekish"
+  },
+  {
+    "slug": "mahoneysquad",
+    "players": [],
+    "name": "MahoneySquad",
+    "image_url": null,
+    "id": 125762,
+    "current_videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "acronym": "MahoneySquad"
+  },
+  {
+    "slug": "massiveimpact",
+    "players": [
+      {
+        "slug": "witmer",
+        "role": null,
+        "name": "witmer",
+        "last_name": "Taylor",
+        "image_url": null,
+        "id": 18004,
+        "hometown": "United States",
+        "first_name": "Shawn"
+      },
+      {
+        "slug": "roca",
+        "role": null,
+        "name": "roca",
+        "last_name": "Gustaferri",
+        "image_url": null,
+        "id": 18007,
+        "hometown": "United States",
+        "first_name": "Daniel"
+      },
+      {
+        "slug": "seb-sebastian-bucki",
+        "role": null,
+        "name": "seb",
+        "last_name": "Bucki",
+        "image_url": null,
+        "id": 20394,
+        "hometown": "USA",
+        "first_name": "Sebastian"
+      },
+      {
+        "slug": "wrath",
+        "role": null,
+        "name": "wrath",
+        "last_name": "McSweegan",
+        "image_url": null,
+        "id": 20395,
+        "hometown": "USA",
+        "first_name": "Collin"
+      },
+      {
+        "slug": "tyfoon",
+        "role": null,
+        "name": "tyfoon",
+        "last_name": "Lesnic",
+        "image_url": null,
+        "id": 20396,
+        "hometown": "Canada",
+        "first_name": "Marian"
+      }
+    ],
+    "name": "MASSIVEimpact",
+    "image_url": null,
+    "id": 125761,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "MASSIVEimpact"
+  },
+  {
+    "slug": "team-endpoint",
+    "players": [
+      {
+        "slug": "puls3",
+        "role": null,
+        "name": "Puls3",
+        "last_name": "Marrs",
+        "image_url": null,
+        "id": 17939,
+        "hometown": "United Kingdom",
+        "first_name": "Reece"
+      },
+      {
+        "slug": "impulse",
+        "role": null,
+        "name": "Impulse",
+        "last_name": "Aleksa Stankić",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17960/400.jpeg",
+        "id": 17960,
+        "hometown": "Serbia",
+        "first_name": "Aleksa"
+      },
+      {
+        "slug": "avn",
+        "role": null,
+        "name": "aVN",
+        "last_name": "Belojica",
+        "image_url": null,
+        "id": 20391,
+        "hometown": "Serbia",
+        "first_name": "Filip"
+      },
+      {
+        "slug": "thomas",
+        "role": null,
+        "name": "Thomas",
+        "last_name": "Utting",
+        "image_url": null,
+        "id": 20392,
+        "hometown": "United Kingdom",
+        "first_name": "Thomas"
+      },
+      {
+        "slug": "mightymax",
+        "role": null,
+        "name": "MiGHTYMAX",
+        "last_name": "Heath",
+        "image_url": null,
+        "id": 20393,
+        "hometown": "United Kingdom",
+        "first_name": "Max"
+      }
+    ],
+    "name": "Team Endpoint",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125760/900px-Endpoint_eSports.png",
+    "id": 125760,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "Endpoint"
+  },
+  {
+    "slug": "uruguay",
+    "players": [
+      {
+        "slug": "scream",
+        "role": null,
+        "name": "ScreaM",
+        "last_name": "Benrlitom",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17549/400.jpeg",
+        "id": 17549,
+        "hometown": "Belgium",
+        "first_name": "Adil"
+      },
+      {
+        "slug": "ex6tenz",
+        "role": null,
+        "name": "Ex6TenZ",
+        "last_name": "Droolans",
+        "image_url": null,
+        "id": 17566,
+        "hometown": "Belgium",
+        "first_name": "Kévin"
+      },
+      {
+        "slug": "draken",
+        "role": null,
+        "name": "draken",
+        "last_name": "William Sundin",
+        "image_url": null,
+        "id": 17660,
+        "hometown": "Sweden",
+        "first_name": null
+      },
+      {
+        "slug": "hs",
+        "role": null,
+        "name": "HS",
+        "last_name": "Tarn",
+        "image_url": null,
+        "id": 17723,
+        "hometown": "Estonia",
+        "first_name": "Kevin"
+      },
+      {
+        "slug": "hampus",
+        "role": null,
+        "name": "hampus",
+        "last_name": "Poser",
+        "image_url": null,
+        "id": 17852,
+        "hometown": "Sweden",
+        "first_name": "Hampus"
+      },
+      {
+        "slug": "chrille",
+        "role": null,
+        "name": "Chrille",
+        "last_name": "Lindberg",
+        "image_url": null,
+        "id": 19987,
+        "hometown": "Sweden",
+        "first_name": "Christian"
+      }
+    ],
+    "name": "Uruguay",
+    "image_url": null,
+    "id": 125759,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "Uruguay"
+  },
+  {
+    "slug": "team-ancient",
+    "players": [
+      {
+        "slug": "pronax",
+        "role": null,
+        "name": "pronax",
+        "last_name": "Wallsten",
+        "image_url": null,
+        "id": 17562,
+        "hometown": "Sweden",
+        "first_name": "Markus"
+      },
+      {
+        "slug": "znajder",
+        "role": null,
+        "name": "znajder",
+        "last_name": "Lindberg",
+        "image_url": null,
+        "id": 17836,
+        "hometown": "Sweden",
+        "first_name": "Andreas"
+      },
+      {
+        "slug": "robiin",
+        "role": null,
+        "name": "robiin",
+        "last_name": "Sjögren",
+        "image_url": null,
+        "id": 17981,
+        "hometown": "Sweden",
+        "first_name": "Robin"
+      },
+      {
+        "slug": "kreaz",
+        "role": null,
+        "name": "kreaz",
+        "last_name": "Johansson",
+        "image_url": null,
+        "id": 20389,
+        "hometown": "Sweden",
+        "first_name": "Rasmus"
+      },
+      {
+        "slug": "peppzor",
+        "role": null,
+        "name": "Peppzor",
+        "last_name": "Borak",
+        "image_url": null,
+        "id": 20390,
+        "hometown": "Sweden",
+        "first_name": "Peppe"
+      }
+    ],
+    "name": "Team Ancient",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125758/900px-Team_Ancient.png",
+    "id": 125758,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "Ancient"
+  },
+  {
+    "slug": "big-frames",
+    "players": [
+      {
+        "slug": "arya-a9cdc9f6-9033-4b33-a5b4-a67b0091ff60",
+        "role": null,
+        "name": "arya",
+        "last_name": "Hekmat",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17822/1200px-Arya_at_DH_Austin_2016.jpg",
+        "id": 17822,
+        "hometown": "United States",
+        "first_name": "Arya"
+      },
+      {
+        "slug": "reality-riley-fusch",
+        "role": null,
+        "name": "Reality",
+        "last_name": "Fusch",
+        "image_url": null,
+        "id": 20385,
+        "hometown": "USA",
+        "first_name": "Riley"
+      },
+      {
+        "slug": "welshy",
+        "role": null,
+        "name": "Welshy",
+        "last_name": "Newhouse",
+        "image_url": null,
+        "id": 20386,
+        "hometown": "USA",
+        "first_name": "Liam"
+      },
+      {
+        "slug": "church",
+        "role": null,
+        "name": "Church",
+        "last_name": "Church",
+        "image_url": null,
+        "id": 20387,
+        "hometown": "USA",
+        "first_name": "Ryan"
+      },
+      {
+        "slug": "devastation",
+        "role": null,
+        "name": "devastation",
+        "last_name": "Parr",
+        "image_url": null,
+        "id": 20388,
+        "hometown": "USA",
+        "first_name": "Andy"
+      }
+    ],
+    "name": "Big Frames",
+    "image_url": null,
+    "id": 125757,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "Big Frames"
+  },
+  {
+    "slug": "sj-gaming",
+    "players": [
+      {
+        "slug": "xarte",
+        "role": null,
+        "name": "xartE",
+        "last_name": "Mikko Välimaa",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17702/400.jpeg",
+        "id": 17702,
+        "hometown": "Finland",
+        "first_name": "Mikko"
+      },
+      {
+        "slug": "khrn",
+        "role": null,
+        "name": "KHRN",
+        "last_name": "Jesse Grandell",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17703/400.jpeg",
+        "id": 17703,
+        "hometown": "Finland",
+        "first_name": "Jesse"
+      },
+      {
+        "slug": "saddyx",
+        "role": null,
+        "name": "SADDYX",
+        "last_name": "Louhimaa",
+        "image_url": null,
+        "id": 20382,
+        "hometown": "Finland",
+        "first_name": "Tuomas"
+      },
+      {
+        "slug": "jamppi",
+        "role": null,
+        "name": "jamppi",
+        "last_name": "Olkkonen",
+        "image_url": null,
+        "id": 20383,
+        "hometown": "Finland",
+        "first_name": "Elias"
+      },
+      {
+        "slug": "arvid",
+        "role": null,
+        "name": "arvid",
+        "last_name": "Niemelä",
+        "image_url": null,
+        "id": 20384,
+        "hometown": "Finland",
+        "first_name": "Tony"
+      }
+    ],
+    "name": "SJ Gaming",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125756/SJ_Gaming.png",
+    "id": 125756,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "SJ"
+  },
+  {
+    "slug": "devils-one",
+    "players": [
+      {
+        "slug": "taz",
+        "role": null,
+        "name": "TaZ",
+        "last_name": "Wojtas",
+        "image_url": null,
+        "id": 17504,
+        "hometown": "Poland",
+        "first_name": "Wiktor"
+      },
+      {
+        "slug": "rallen",
+        "role": null,
+        "name": "rallen",
+        "last_name": "Rodowicz",
+        "image_url": null,
+        "id": 17638,
+        "hometown": "Poland",
+        "first_name": "Karol"
+      },
+      {
+        "slug": "loord",
+        "role": null,
+        "name": "Loord",
+        "last_name": "Cybulski",
+        "image_url": null,
+        "id": 17763,
+        "hometown": "Poland",
+        "first_name": "Mariusz"
+      },
+      {
+        "slug": "minise",
+        "role": null,
+        "name": "MINISE",
+        "last_name": "Jeziak",
+        "image_url": null,
+        "id": 17950,
+        "hometown": "Poland",
+        "first_name": "Jacek"
+      },
+      {
+        "slug": "mouz",
+        "role": null,
+        "name": "mouz",
+        "last_name": "Karolewski",
+        "image_url": null,
+        "id": 17951,
+        "hometown": "Poland",
+        "first_name": "Mikołaj"
+      },
+      {
+        "slug": "reatz",
+        "role": null,
+        "name": "Reatz",
+        "last_name": "Jańczak ",
+        "image_url": null,
+        "id": 18293,
+        "hometown": "Poland",
+        "first_name": "Paweł"
+      },
+      {
+        "slug": "dycha",
+        "role": null,
+        "name": "dycha",
+        "last_name": "Dycha",
+        "image_url": null,
+        "id": 20381,
+        "hometown": "Poland",
+        "first_name": "Paweł"
+      }
+    ],
+    "name": "devils.one",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125755/900px-Devils_one_logo_big.png",
+    "id": 125755,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "devils.one"
+  },
+  {
+    "slug": "icon",
+    "players": [
+      {
+        "slug": "ustilo",
+        "role": null,
+        "name": "USTILO",
+        "last_name": "Pivac",
+        "image_url": null,
+        "id": 17643,
+        "hometown": "Australia",
+        "first_name": "Karlo"
+      },
+      {
+        "slug": "ofnu",
+        "role": null,
+        "name": "ofnu",
+        "last_name": "Hanley",
+        "image_url": null,
+        "id": 17777,
+        "hometown": "New Zealand",
+        "first_name": "Chris"
+      },
+      {
+        "slug": "sico",
+        "role": null,
+        "name": "Sico",
+        "last_name": "Williams",
+        "image_url": null,
+        "id": 17792,
+        "hometown": "New Zealand",
+        "first_name": "Simon"
+      },
+      {
+        "slug": "apoc",
+        "role": null,
+        "name": "apoc",
+        "last_name": "Aliferis",
+        "image_url": null,
+        "id": 20379,
+        "hometown": "Australia",
+        "first_name": "Mike"
+      },
+      {
+        "slug": "zewsy",
+        "role": null,
+        "name": "zewsy",
+        "last_name": "Palmer",
+        "image_url": null,
+        "id": 20380,
+        "hometown": "New Zealand",
+        "first_name": "Ryan"
+      }
+    ],
+    "name": "ICON",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125754/900px-ICON_logo.png",
+    "id": 125754,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "ICON"
+  },
+  {
+    "slug": "bad-news-bears",
+    "players": [
+      {
+        "slug": "ptr",
+        "role": null,
+        "name": "ptr",
+        "last_name": "Gurney",
+        "image_url": null,
+        "id": 17586,
+        "hometown": "United States",
+        "first_name": "Peter"
+      },
+      {
+        "slug": "infinite",
+        "role": null,
+        "name": "Infinite",
+        "last_name": "Green",
+        "image_url": "https://cdn.pandascore.co/images/player/image/18170/600px-Infinite_Etherian.jpg",
+        "id": 18170,
+        "hometown": "United States",
+        "first_name": "Gage "
+      },
+      {
+        "slug": "shinobi-josh-abastado",
+        "role": null,
+        "name": "shinobi",
+        "last_name": "Abastado",
+        "image_url": null,
+        "id": 20399,
+        "hometown": "USA",
+        "first_name": "Josh"
+      },
+      {
+        "slug": "mitch",
+        "role": null,
+        "name": "mitch",
+        "last_name": "Semago",
+        "image_url": null,
+        "id": 20400,
+        "hometown": "USA",
+        "first_name": "Mitch"
+      },
+      {
+        "slug": "tenz",
+        "role": null,
+        "name": "TenZ",
+        "last_name": "Ngo",
+        "image_url": null,
+        "id": 20401,
+        "hometown": "Canada",
+        "first_name": "Tyson"
+      }
+    ],
+    "name": "Bad News Bears",
+    "image_url": null,
+    "id": 125753,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "BNB"
+  },
+  {
+    "slug": "nochance",
+    "players": [
+      {
+        "slug": "maikelele",
+        "role": null,
+        "name": "Maikelele",
+        "last_name": "Bill",
+        "image_url": null,
+        "id": 17555,
+        "hometown": "Sweden",
+        "first_name": "Mikail"
+      },
+      {
+        "slug": "krystal-a9970468-78aa-4afd-a574-4ff3f07f9064",
+        "role": null,
+        "name": "kRYSTAL",
+        "last_name": "Amend",
+        "image_url": null,
+        "id": 17700,
+        "hometown": "Germany",
+        "first_name": "Kevin"
+      },
+      {
+        "slug": "devilwalk",
+        "role": null,
+        "name": "Devilwalk",
+        "last_name": "Lundberg",
+        "image_url": null,
+        "id": 17864,
+        "hometown": "Sweden",
+        "first_name": "Jonatan"
+      },
+      {
+        "slug": "nukkye",
+        "role": null,
+        "name": "nukkye",
+        "last_name": "Žygimantas Chmieliauskas",
+        "image_url": "https://cdn.pandascore.co/images/player/image/18163/600px-Nukkye_DreamHack_Tours.jpg",
+        "id": 18163,
+        "hometown": "Lithuania",
+        "first_name": "Žygimantas "
+      },
+      {
+        "slug": "frozen-david-cernansky",
+        "role": null,
+        "name": "frozen",
+        "last_name": "Čerňanský",
+        "image_url": null,
+        "id": 20397,
+        "hometown": "Slovakia",
+        "first_name": "David"
+      },
+      {
+        "slug": "radifaction",
+        "role": null,
+        "name": "Radifaction",
+        "last_name": "Tholo",
+        "image_url": null,
+        "id": 20398,
+        "hometown": "Norway",
+        "first_name": "Haakon"
+      }
+    ],
+    "name": "NoChance",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125752/9722.png",
+    "id": 125752,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "NoChance"
+  },
+  {
+    "slug": "pain-gaming-cs-go",
+    "players": [
+      {
+        "slug": "pkl",
+        "role": null,
+        "name": "PKL",
+        "last_name": "Coelho",
+        "image_url": "https://cdn.pandascore.co/images/player/image/17728/900px-PKL_paiN.jpg",
+        "id": 17728,
+        "hometown": "Brazil",
+        "first_name": "Vinicios"
+      },
+      {
+        "slug": "land1n",
+        "role": null,
+        "name": "land1n",
+        "last_name": "Felipe",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20367/900px-Land1n_paiN.jpg",
+        "id": 20367,
+        "hometown": "Brazil",
+        "first_name": "Paulo"
+      },
+      {
+        "slug": "tatazin",
+        "role": null,
+        "name": "tatazin",
+        "last_name": "Pereira",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20368/900px-Tatazin_paiN.jpg",
+        "id": 20368,
+        "hometown": "Brazil",
+        "first_name": "Alef"
+      },
+      {
+        "slug": "maxcel",
+        "role": null,
+        "name": "maxcel",
+        "last_name": "Rocha",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20369/900px-Maxcel_paiN.jpg",
+        "id": 20369,
+        "hometown": "Brazil",
+        "first_name": "Maxcel"
+      },
+      {
+        "slug": "biguzera",
+        "role": null,
+        "name": "biguzera",
+        "last_name": "Bittencourt",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20370/900px-Biguzera_paiN.jpg",
+        "id": 20370,
+        "hometown": "Brazil",
+        "first_name": "Rodrigo"
+      }
+    ],
+    "name": "paiN Gaming",
+    "image_url": "https://cdn.pandascore.co/images/team/image/125751/pain-gaming-farnhu45.png",
+    "id": 125751,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": "paiN"
+  },
+  {
+    "slug": "phase-2",
+    "players": [
+      {
+        "slug": "k1ng-c121e309-5fd4-44e7-a5fd-cba659c13547",
+        "role": "DPS",
+        "name": "k1ng",
+        "last_name": null,
+        "image_url": null,
+        "id": 18991,
+        "hometown": null,
+        "first_name": null
+      }
+    ],
+    "name": "Phase 2",
+    "image_url": null,
+    "id": 125750,
+    "current_videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "acronym": "P2"
+  },
+  {
+    "slug": "square-one",
+    "players": [
+      {
+        "slug": "hotdate",
+        "role": "Flex",
+        "name": "Hotdate",
+        "last_name": null,
+        "image_url": null,
+        "id": 19342,
+        "hometown": null,
+        "first_name": null
+      }
+    ],
+    "name": "Square One",
+    "image_url": null,
+    "id": 125749,
+    "current_videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "acronym": "Square 1"
+  },
+  {
+    "slug": "bermuda",
+    "players": [
+      {
+        "slug": "guru",
+        "role": null,
+        "name": "Guru",
+        "last_name": "Koppes",
+        "image_url": null,
+        "id": 20362,
+        "hometown": null,
+        "first_name": "Zechariah"
+      }
+    ],
+    "name": "Bermuda",
+    "image_url": null,
+    "id": 125748,
+    "current_videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "acronym": "Bermuda"
+  },
+  {
+    "slug": "chicken-contendies",
+    "players": [
+      {
+        "slug": "harbleu",
+        "role": null,
+        "name": "Harbleu",
+        "last_name": "Ballo",
+        "image_url": null,
+        "id": 20363,
+        "hometown": null,
+        "first_name": "Anthony"
+      }
+    ],
+    "name": "Chicken Contendies",
+    "image_url": null,
+    "id": 125747,
+    "current_videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "acronym": "Chicken C"
+  },
+  {
+    "slug": "montreal-rebellion",
+    "players": [],
+    "name": "Montreal Rebellion",
+    "image_url": null,
+    "id": 125746,
+    "current_videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "acronym": "MTL"
+  },
+  {
+    "slug": "carnage-fe",
+    "players": [
+      {
+        "slug": "artemis-84e585cd-3e82-4ad5-af28-2a82b9bdd0b4",
+        "role": null,
+        "name": "ARTeMis",
+        "last_name": "Jessica Majrouh",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20357/400.jpeg",
+        "id": 20357,
+        "hometown": "Australia",
+        "first_name": null
+      },
+      {
+        "slug": "konii",
+        "role": null,
+        "name": "konii",
+        "last_name": "Connie Ko",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20358/400.jpeg",
+        "id": 20358,
+        "hometown": "Australia",
+        "first_name": null
+      },
+      {
+        "slug": "epoh",
+        "role": null,
+        "name": "epoh",
+        "last_name": "Hope Kure",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20359/400.jpeg",
+        "id": 20359,
+        "hometown": "Australia",
+        "first_name": null
+      },
+      {
+        "slug": "riv",
+        "role": null,
+        "name": "riv",
+        "last_name": "Calise Newton",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20360/blankplayer.svg",
+        "id": 20360,
+        "hometown": "Australia",
+        "first_name": null
+      },
+      {
+        "slug": "bibiahn",
+        "role": null,
+        "name": "BiBiAhn ",
+        "last_name": null,
+        "image_url": null,
+        "id": 20408,
+        "hometown": null,
+        "first_name": null
+      },
+      {
+        "slug": "bibiahn-0cacf7bc-9942-4db6-9b01-56e5f6754e48",
+        "role": null,
+        "name": "BiBiAhn",
+        "last_name": null,
+        "image_url": null,
+        "id": 20524,
+        "hometown": null,
+        "first_name": null
+      }
+    ],
+    "name": "Carnage fe",
+    "image_url": null,
+    "id": 125745,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "besiktas-cs-go",
+    "players": [
+      {
+        "slug": "juliano",
+        "role": null,
+        "name": "juliano",
+        "last_name": "Julia Kiran",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20352/400.jpeg",
+        "id": 20352,
+        "hometown": "Sweden",
+        "first_name": null
+      },
+      {
+        "slug": "zaaz",
+        "role": null,
+        "name": "zAAz",
+        "last_name": "Zainab Turkie",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20353/400.jpeg",
+        "id": 20353,
+        "hometown": "Sweden",
+        "first_name": null
+      },
+      {
+        "slug": "petra",
+        "role": null,
+        "name": "Petra",
+        "last_name": "Petra Stoker",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20354/400.jpeg",
+        "id": 20354,
+        "hometown": "Netherlands",
+        "first_name": null
+      },
+      {
+        "slug": "kr4sylya",
+        "role": null,
+        "name": "kr4sylya",
+        "last_name": "Anastasia Khlobystina",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20355/blankplayer.svg",
+        "id": 20355,
+        "hometown": "Russia",
+        "first_name": null
+      },
+      {
+        "slug": "missa",
+        "role": null,
+        "name": "Missa",
+        "last_name": "Meyssa Bellouati",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20356/400.jpeg",
+        "id": 20356,
+        "hometown": "France",
+        "first_name": null
+      }
+    ],
+    "name": "Besiktas",
+    "image_url": null,
+    "id": 125744,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "crowns-fe",
+    "players": [
+      {
+        "slug": "hellrose",
+        "role": null,
+        "name": "HellRose",
+        "last_name": "Ivelina Danova",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20347/400.jpeg",
+        "id": 20347,
+        "hometown": "Bulgaria",
+        "first_name": null
+      },
+      {
+        "slug": "zon1q",
+        "role": null,
+        "name": "zon1Q",
+        "last_name": "Kristina Stevanović",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20348/400.jpeg",
+        "id": 20348,
+        "hometown": "Serbia",
+        "first_name": null
+      },
+      {
+        "slug": "kim",
+        "role": null,
+        "name": "Kim",
+        "last_name": "Sophia Benfakir",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20349/400.jpeg",
+        "id": 20349,
+        "hometown": "France",
+        "first_name": null
+      },
+      {
+        "slug": "bullet-girl",
+        "role": null,
+        "name": "bullet girl",
+        "last_name": "Julia Kurzyńska",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20350/400.jpeg",
+        "id": 20350,
+        "hometown": "Poland",
+        "first_name": null
+      },
+      {
+        "slug": "nessa",
+        "role": null,
+        "name": "Nessa",
+        "last_name": "Vanessa Ahlström",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20351/400.jpeg",
+        "id": 20351,
+        "hometown": "Sweden",
+        "first_name": null
+      }
+    ],
+    "name": "Crowns fe",
+    "image_url": null,
+    "id": 125743,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  },
+  {
+    "slug": "clg-red",
+    "players": [
+      {
+        "slug": "emy",
+        "role": null,
+        "name": "Emy",
+        "last_name": "Emma Choe",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20342/400.jpeg",
+        "id": 20342,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "benita",
+        "role": null,
+        "name": "bENITA",
+        "last_name": "Benita Novshadian",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20343/400.jpeg",
+        "id": 20343,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "refinnej",
+        "role": null,
+        "name": "refinnej",
+        "last_name": "Jennifer Le",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20344/400.jpeg",
+        "id": 20344,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "di",
+        "role": null,
+        "name": "di^",
+        "last_name": "Diane Tran",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20345/400.jpeg",
+        "id": 20345,
+        "hometown": "United States",
+        "first_name": null
+      },
+      {
+        "slug": "goosebreeder",
+        "role": null,
+        "name": "GooseBreeder",
+        "last_name": "Mounira Dobie",
+        "image_url": "https://cdn.pandascore.co/images/player/image/20346/400.jpeg",
+        "id": 20346,
+        "hometown": "Canada",
+        "first_name": null
+      },
+      {
+        "slug": "refinnej-6ccb6ecf-628c-4c0e-9183-90080a696deb",
+        "role": null,
+        "name": "refinnej",
+        "last_name": null,
+        "image_url": null,
+        "id": 20530,
+        "hometown": null,
+        "first_name": null
+      },
+      {
+        "slug": "emy-181ff979-49f0-4cf0-871f-31a743a234ce",
+        "role": null,
+        "name": "Emy",
+        "last_name": null,
+        "image_url": null,
+        "id": 20531,
+        "hometown": null,
+        "first_name": null
+      },
+      {
+        "slug": "goosebreeder-03a41390-359a-404a-9b07-0df49a36fe30",
+        "role": null,
+        "name": "GooseBreeder",
+        "last_name": null,
+        "image_url": null,
+        "id": 20532,
+        "hometown": null,
+        "first_name": null
+      },
+      {
+        "slug": "benita-488b1b47-c0e6-4bca-931c-4a8712f2bd70",
+        "role": null,
+        "name": "bENITA",
+        "last_name": null,
+        "image_url": null,
+        "id": 20533,
+        "hometown": null,
+        "first_name": null
+      }
+    ],
+    "name": "CLG Red",
+    "image_url": null,
+    "id": 125742,
+    "current_videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "acronym": null
+  }
+]
